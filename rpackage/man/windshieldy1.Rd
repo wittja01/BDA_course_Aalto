@@ -4,11 +4,14 @@
 \name{windshieldy1}
 \alias{windshieldy1}
 \title{windshieldy1}
-\format{A vector with 9 elements}
+\format{
+A vector with 9 elements
+}
 \usage{
 windshieldy1
 }
 \description{
-windshieldy1 data set
+windshieldy1 data set. The data represents a sample of
+windshields whose hardness has been measured.
 }
 \keyword{datasets}
